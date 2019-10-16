@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/arsd_script
+arsd_script.so
+arsd_script.dylib
+arsd_script.dll
+arsd_script.a
+arsd_script.lib
+arsd_script-test-*
+*.exe
+*.o
+*.obj
+*.lst
